@@ -19,18 +19,18 @@
 
 ### 成绩下载类：
 ### 属性：	
-  姓名	类型为String，Private属性
-	学号	类型为int，Private属性
-	学院	类型为String，Private属性
-	班级	类型为String，Private属性
-	学期	类型为String，Private属性
+        姓名        类型为String，Private属性
+	学号	  类型为int，Private属性
+	学院	  类型为String，Private属性
+	班级	  类型为String，Private属性
+	学期	  类型为String，Private属性
 	课程名称	类型为String，Private属性
 	课程性质	类型为String，Private属性
 	成绩类型	类型为String，Private属性
 	应修学分	类型为String，Private属性
 	实修学分	类型为String，Private属性
-	成绩	类型为String，Private属性
-	绩点  	类型为String，Private属性
+	成绩	 类型为String，Private属性
+	绩点  	 类型为String，Private属性
 	学分绩	类型为String，Private属性
 ### 方法：	
   保存	
@@ -38,7 +38,7 @@
 
 ### 成绩类
 ### 属性	
-  考试科目	类型为String，Private属性
+        考试科目	类型为String，Private属性
 	总评成绩	类型为String，Private属性
 	学期	    类型为String，Private属性
 	学科类型	类型为String，Private属性
@@ -54,10 +54,10 @@
 
 ### 教师参与者的类图
 ### 属性：
-用户名: string
-密码: string
+用户名:   string
+密码:     string
 所授学科: string
-性别: string
+性别:     string
 ### 方法：
 上传课件
 上传教学视频
