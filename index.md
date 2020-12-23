@@ -13,6 +13,7 @@
 	18至19学年下学期	类型为String，Private属性
 	19至20学年上学期	类型为String，Private属性
 	19至20学年下学期	类型为String，Private属性
+	
 ### 方法：	
   查询	
   打印	
@@ -32,9 +33,10 @@
 	成绩	 类型为String，Private属性
 	绩点  	 类型为String，Private属性
 	学分绩	类型为String，Private属性
+	
 ### 方法：	
   保存	
-	发送	
+  发送	
 
 ### 成绩类
 ### 属性	
@@ -50,6 +52,7 @@
 	作业成绩	类型为Int，Private属性
 	期中成绩	类型为Int，Private属性
 	期末成绩	类型为Int，Private属性
+	
 ### 方法：	
 
 ### 教师参与者的类图
