@@ -8,7 +8,7 @@
 ### 2.4    
 ### 学期筛选类：
 ### 属性：
-  全部数据          类型为String，Private属性
+         全部数据             类型为String，Private属性
 	18至19学年上学期	类型为String，Private属性
 	18至19学年下学期	类型为String，Private属性
 	19至20学年上学期	类型为String，Private属性
@@ -30,7 +30,7 @@
 	应修学分	类型为String，Private属性
 	实修学分	类型为String，Private属性
 	成绩	类型为String，Private属性
-	绩点  类型为String，Private属性
+	绩点  	类型为String，Private属性
 	学分绩	类型为String，Private属性
 ### 方法：	
   保存	
